@@ -4,13 +4,13 @@ Table of Contents
 
 # &rarr; Introduction
 
-# Dataset
+# &rarr; Dataset
 
-# Training
+# &rarr; Training
 
-# Evaluation
+# &rarr; Evaluation
 
-# Contributing
+# &rarr; Contributing
 
-## Introduction
+## `←`Introduction
 
