@@ -12,5 +12,5 @@ Table of Contents
 
 # &rarr; Contributing
 
-## `←`Introduction
+## ⭐Introduction
 
