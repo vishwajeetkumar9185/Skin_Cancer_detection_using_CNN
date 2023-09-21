@@ -35,3 +35,12 @@ For this i have collected datasets from KAGGLE (https://www.kaggle.com/datasets/
 ## ⭐ Training
 
 Ensure you have set up the data as described in the DATASET section.
+
+
+
+
+<img width="269" alt="image" src="https://github.com/vishwajeetkumar9185/Skin_Cancer_detection_using_CNN/assets/109755895/7870e15d-9729-4db2-9251-9611b1a30550">
+You can contact me at 📞 Phone: 7481894841
+✉️ Email: vishwajeetkumar9185@gmail.com
+
+
